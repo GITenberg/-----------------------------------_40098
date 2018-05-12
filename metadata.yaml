@@ -5,6 +5,8 @@ covers:
 - cover_type: archival
   image_path: 40098-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40098#-----------------------------------
 gutenberg_issued: '2012-06-27'
 gutenberg_type: Text
 identifiers:
