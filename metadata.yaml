@@ -1,0 +1,20 @@
+_repo: '-----------------------------------_40098'
+_version: 0.1.0
+alternative_title: Anecdotes of King George I
+covers:
+- cover_type: archival
+  image_path: 40098-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2012-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40098'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'George I, King of the Hellenes, 1845-1913'
+- !lcc 'DF'
+title: Τα ανέκδοτα του Βασιλέως Γεωργίου Α
+url: http://www.gutenberg.org/ebooks/40098
